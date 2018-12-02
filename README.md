@@ -23,7 +23,6 @@ In practice, there are some more specific challenges:
 3.	To balance the return and risk. Maybe the predication is 90% accurate. But 1% long tail event can make you bankrupt. In other words, the percent of accuracy is not as important as in other applications.
 4.	Regarding microstructure, there are a lot of thing that is hard to digitize, such as shorting, up stick and so on.
 
-I am still in my early days to implement my ideas. If anyone has interest, we may cooperate. You can reach at me by gmail, Mr.Ying.Lee.
-
 ## How to implement step by step?
+I am still in my early days to implement my ideas. If anyone has interest, we may cooperate. You can reach at me by gmail, Mr.Ying.Lee.
 
