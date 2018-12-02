@@ -13,7 +13,7 @@ If someone finds something useful, maybe he will keep it confident and use it to
 Financial markets are gaming system, everyone gains at cost of others.
 
 ## In theory, why are financial markets hard for AI?
-In theory, to make money by AI is to challenge EMH (Efficient-market hypothesis) (https://en.wikipedia.org/wi... ). EMH is the corner stone of modern finance. So that the task is very tough.
+In theory, to make money by AI is to challenge EMH (Efficient-market hypothesis) (https://en.wikipedia.org/wiki/Efficient-market_hypothesis ). EMH is the corner stone of modern finance. So that the task is very tough.
 
 ## In practice, why are financial markets hard for AI?
 1.	Limited data. There is only one copy of data. History doesn’t repeat itself simply.
