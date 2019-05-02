@@ -18,6 +18,7 @@ In other words, I turn the trading decision problem into a multiclass classifica
 ![alt text](https://github.com/MRYingLEE/Stock.AI/blob/master/trading-by-cheating/HSI.jpg "AAPL")
 
 L/S: Long/Short. We may short the name.
+
 L/N: Long/Neutral. We may long or neutral.
 
 # The multiclass multification by deep learning and XGBoost failed
