@@ -12,7 +12,10 @@ In other words, I turn the trading decision problem into a multiclass classifica
 
 # The cheating is helpful to the performance, but not always
 
-
+![alt text](https://github.com/MRYingLEE/Stock.AI/blob/master/trading-by-cheating/AAPL.jpg "AAPL")
+![alt text](https://github.com/MRYingLEE/Stock.AI/blob/master/trading-by-cheating/AMZN.jpg "AAPL")
+![alt text](https://github.com/MRYingLEE/Stock.AI/blob/master/trading-by-cheating/GOOG.jpg "AAPL")
+![alt text](https://github.com/MRYingLEE/Stock.AI/blob/master/trading-by-cheating/HSI.jpg "AAPL")
 
 # The multiclass multification by deep learning and XGBoost failed
 
@@ -24,7 +27,7 @@ Maybe it is because the state (only 20 past prices, actually 20 past returns) is
 
 # All related files have been put in this folder
 
-# The excel files are for pre-processing 
+## The excel files are for pre-processing 
 
-# The notebook is for multi-classification
+## The notebook is for multi-classification
 
