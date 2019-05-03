@@ -12,6 +12,8 @@ In other words, I turn the trading decision problem into a multiclass classifica
 
 # The cheating is helpful to the performance, but not always
 
+I tried some simple rules.
+
 ![alt text](https://github.com/MRYingLEE/Stock.AI/blob/master/trading-by-cheating/AAPL.jpg "AAPL")
 ![alt text](https://github.com/MRYingLEE/Stock.AI/blob/master/trading-by-cheating/AMZN.jpg "AAPL")
 ![alt text](https://github.com/MRYingLEE/Stock.AI/blob/master/trading-by-cheating/GOOG.jpg "AAPL")
@@ -20,6 +22,8 @@ In other words, I turn the trading decision problem into a multiclass classifica
 L/S: Long/Short. We may short the name.
 
 L/N: Long/Neutral. We may long or neutral.
+
+Later, I tried some complicated rules and they can improve the performance greatly. But the optimal strategy is based on the cheating.
 
 # The multiclass multification by deep learning and XGBoost failed
 
@@ -34,4 +38,3 @@ Maybe it is because the state (only 20 past prices, actually 20 past returns) is
 ## The excel files are for pre-processing 
 
 ## The notebook is for multi-classification
-
