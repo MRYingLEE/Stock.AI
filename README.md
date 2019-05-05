@@ -49,7 +49,7 @@ To use history information, I will use Long short-term memory model(https://en.w
 
 ## What's the architecture?
 
-Not a general algo for investement data, but a investement specific algo.
+Not a general environment and algo for investement data, but a investement specific environment and algo.
 
 ![Architecture](https://github.com/MRYingLEE/Stock.AI/blob/master/Reinforcement%20Trading.png "Architecture")
 
