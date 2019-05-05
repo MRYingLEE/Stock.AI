@@ -47,5 +47,13 @@ But,
 Most prationer believes the financial history repeats. In other words, the history is meaningful to the future. Technically, the financial price movement is not a Markov Processes (http://www.randomservices.org/random/markov/index.html) .
 To use history information, I will use Long short-term memory model(https://en.wikipedia.org/wiki/Long_short-term_memory) as a module of reinforcement learning. 
 
+## What's the architecture?
+
+Not a general algo for investement data, but a investement specific algo.
+
+![Architecture](https://github.com/MRYingLEE/Stock.AI/blob/master/Reinforcement%20Trading.png "Architecture")
+
+
+
 I am still in my early days to implement my ideas. If anyone has interest, we may cooperate. You can reach at me by gmail, Mr.Ying.Lee.
 
